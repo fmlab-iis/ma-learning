@@ -1,0 +1,8 @@
+# iterations is : 34
+# alphabets is : 9
+Probability is : 20
+Cache count is : 0
+Total count is : 0
+Cache rate is : NaN
+Total number of membership query is : 11560
+Total number of equivalence query is : 1235
