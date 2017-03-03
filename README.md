@@ -181,7 +181,7 @@ Here are some experiment results and detail information of the tables.
 #### Table1
 The following table is the experiment result of prediction of the Calculator experiment.
 
-[[image/1.png]]
+[[https://raw.githubusercontent.com/fmlab-iis/ma-learning/master/image/1.png]]
 
 #### Table2
 The following table is the experiment result of the Calculator experiment.
